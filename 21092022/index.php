@@ -9,6 +9,6 @@
 <body>
     <form action="calc.php" method="POST">
     Digite sua idade: <input type="text" name="idade"><br>
-    <input type="submit" value="Enviar">
+    <input type="submit" value="Calcular">
 </body>
 </html>
